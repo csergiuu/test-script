@@ -1,4 +1,4 @@
 <script>
-alert("This script injection.")
-console.log("This script injection.")
+  alert("This is a script injection.")
+  console.log("This is a script injection.")
 </script>
